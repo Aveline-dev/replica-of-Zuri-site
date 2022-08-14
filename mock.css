@@ -1,0 +1,31 @@
+body{
+    margin: 0px; background-color: #fff;
+}
+.head-intro{
+    background-image: url(https://zuri.team/img/hero-bg.svg); 
+    background-size: cover;
+    height: 800px;
+}
+.center-image {
+    margin: auto;
+    display: flex;
+    padding-top: 69px;
+    margin-bottom: 69px;
+    justify-content: center;
+}
+
+.story{ 
+    padding: 10px; max-width: 700px; margin: 0 auto; text-align: center;
+}
+.my-btn{
+    margin-top: 92px;
+}
+button{display: inline-block;}
+.btn-red{
+    padding: 11px 28px; margin-right: 24px; border: 0px; color: #fff;
+    background-color: red;
+}
+.btn-red-outline{
+    padding: 11px 28px; color: red; background-color: #fff; 
+    border: 1px solid red;
+}
